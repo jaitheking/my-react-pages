@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://jaitheking.github.io/my-react-pages",
+  "homepage": ".",
   "eslintConfig": {
     "extends": [
       "react-app",
