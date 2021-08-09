@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-react-pages/static/css/main.039c9334.chunk.css",
+    "main.css": "/my-react-pages/static/css/main.28158ef4.chunk.css",
     "main.js": "/my-react-pages/static/js/main.32b5bbde.chunk.js",
     "main.js.map": "/my-react-pages/static/js/main.32b5bbde.chunk.js.map",
     "runtime-main.js": "/my-react-pages/static/js/runtime-main.5b8e6dbc.js",
@@ -10,7 +10,7 @@
     "static/js/2.c3ed37c5.chunk.js.map": "/my-react-pages/static/js/2.c3ed37c5.chunk.js.map",
     "index.html": "/my-react-pages/index.html",
     "static/css/2.b0300f7a.chunk.css.map": "/my-react-pages/static/css/2.b0300f7a.chunk.css.map",
-    "static/css/main.039c9334.chunk.css.map": "/my-react-pages/static/css/main.039c9334.chunk.css.map",
+    "static/css/main.28158ef4.chunk.css.map": "/my-react-pages/static/css/main.28158ef4.chunk.css.map",
     "static/js/2.c3ed37c5.chunk.js.LICENSE.txt": "/my-react-pages/static/js/2.c3ed37c5.chunk.js.LICENSE.txt",
     "static/media/MyProfile.c74a4a6f.jpg": "/my-react-pages/static/media/MyProfile.c74a4a6f.jpg"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.5b8e6dbc.js",
     "static/css/2.b0300f7a.chunk.css",
     "static/js/2.c3ed37c5.chunk.js",
-    "static/css/main.039c9334.chunk.css",
+    "static/css/main.28158ef4.chunk.css",
     "static/js/main.32b5bbde.chunk.js"
   ]
 }
