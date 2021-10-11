@@ -13,11 +13,23 @@ export default class Experiences extends Component {
             </h6>
             <hr />
             <div className="row mt">
+            <div className="col s12">
+                <blockquote className="content-right">
+                  <h6 className="no-pad mt-bottom">
+                    <strong>Machine Learning Engineer</strong>
+                    <span>2021 - Present</span>
+                  </h6>
+                  <p className="pt">
+                  Responsible for the backend development &amp; data processing for data analytics related projects
+                  </p>
+                </blockquote>
+              </div>
+              
               <div className="col s12">
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
                     <strong>Intermediate Software Engineer</strong>
-                    <span>2020 - Present</span>
+                    <span>2020 - 2021</span>
                   </h6>
                   <p className="pt">
                   Responsible for capturing user requirements &amp; in charge of several software modules of internal software solution.

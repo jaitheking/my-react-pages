@@ -9,7 +9,7 @@ export default class Download extends Component {
           <div className="card-content">
             <h6>
               <strong>
-                <i className="fas fa-tools"></i> Download My Files
+              <i class="fas fa-download"></i> Download My Files
               </strong>
             </h6>
             <hr />
@@ -25,7 +25,7 @@ export default class Download extends Component {
                 <tbody>
                     <tr>
                         <td><span class="new badge blue"></span> CV</td>
-                        <td>Aug 2021</td>
+                        <td>Oct 2021</td>
                         <td>
                         <Link to="/files/My2021CV.pdf" target="_blank" className='btn blue-lighten-2' download>Download</Link>
                         </td>
